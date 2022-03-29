@@ -1,6 +1,6 @@
 # This is a sample Python script.
 #At first, It was impossible for us to implement a code on github. So we made the code before on anaconda. Then, one of us got success on github.
-
+#So we copied and pasted our code :
 from functools import total_ordering
 
 
